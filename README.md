@@ -6,7 +6,13 @@
 
 ### 함성모, 오도현, 김무진
 
-## 기능
+## 팀워크 활동 (개인 사정으로 인한 원격 회의 진행)
+![팀워크](https://github.com/HSM1025/subject2/assets/153062234/44af65d3-b02b-42aa-ba5a-3b5a443ea66d)
+[팀워크2](https://github.com/HSM1025/subject2/assets/153062234/37e137ce-e112-4e7e-9133-16b4f9abd4c3)
+<img width="960" alt="팀워크3" src="https://github.com/HSM1025/subject2/assets/153062234/3cfdb4d0-e565-43cb-9e0f-5424d8f3f810">
+
+## 기능!
+
 
 ### 기본 기능 
 공과 패들이 움직임, 물체나 벽에 부딪히면 튕겨짐, 벽돌 사라짐
