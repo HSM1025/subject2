@@ -4,12 +4,6 @@
 
 ### 함성모, 오도현, 김무진
 
-## 팀워크 활동 (개인 사정으로 인한 원격 회의 진행)
-<img width="570" height="370" alt="팀워크3" src="https://github.com/HSM1025/subject2/assets/153062234/3cfdb4d0-e565-43cb-9e0f-5424d8f3f810">
-<img width="570" height="370" alt="팀워크2" src="https://github.com/HSM1025/subject2/assets/153062234/37e137ce-e112-4e7e-9133-16b4f9abd4c3">
-<img width="570" height="370" alt="팀워크1" src="https://github.com/HSM1025/subject2/assets/153062234/44af65d3-b02b-42aa-ba5a-3b5a443ea66d">
-
-
 ## 기능
 
 
@@ -23,3 +17,8 @@
 4. 점수 기능 (블럭 파괴시 점수 100점 증가)
 5. 레벨 기능 (레벨 상승시 블럭 파괴 점수(100점)와 속도 증가(20%), 새 레벨 들어갈 시 점수 제외 전부 초기화, spece바 누를 시 시작) 
 6. 기타 보안사항 (최대한 블럭, 패들과 공이 덜 엉키도록 수정, 어떤 상황에서든 나가기 버튼을 누를 시 나가기 가능)
+
+## 팀워크 활동 (개인 사정으로 인한 원격 회의 진행)
+<img width="570" height="370" alt="팀워크3" src="https://github.com/HSM1025/subject2/assets/153062234/3cfdb4d0-e565-43cb-9e0f-5424d8f3f810">
+<img width="570" height="370" alt="팀워크2" src="https://github.com/HSM1025/subject2/assets/153062234/37e137ce-e112-4e7e-9133-16b4f9abd4c3">
+<img width="570" height="370" alt="팀워크1" src="https://github.com/HSM1025/subject2/assets/153062234/44af65d3-b02b-42aa-ba5a-3b5a443ea66d">
