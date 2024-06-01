@@ -1,0 +1,37 @@
+﻿  main.cpp
+C:\Users\gkatj\Downloads\main.cpp(62,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(198,44): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(199,44): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(216,39): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(216,39): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(216,49): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(216,49): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(216,59): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(216,59): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(216,69): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(216,69): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(217,35): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(217,35): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(217,43): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(217,43): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(217,51): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(217,51): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(217,59): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(217,59): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(347,43): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(347,43): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(347,53): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(347,53): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(347,63): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(347,63): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(347,73): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(347,73): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(351,39): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(351,39): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(351,47): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(351,47): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(351,55): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(351,55): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkatj\Downloads\main.cpp(351,63): warning C4838: 'float'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\gkatj\Downloads\main.cpp(351,63): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  block.vcxproj -> C:\Users\gkatj\OneDrive\바탕 화면\대학교 과제\C프로그래밍\block\x64\Debug\block.exe

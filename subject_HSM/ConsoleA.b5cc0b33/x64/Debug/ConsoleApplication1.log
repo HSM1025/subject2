@@ -1,9 +1,0 @@
-﻿  ConsoleApplication1.cpp
-C:\Users\gkatj\OneDrive\바탕 화면\대학교 과제\C프로그래밍\subject2\ConsoleApplication1\ConsoleApplication1.cpp(20,17): error C2440: '=': 'errno_t'에서 'FILE *'(으)로 변환할 수 없습니다.
-  C:\Users\gkatj\OneDrive\바탕 화면\대학교 과제\C프로그래밍\subject2\ConsoleApplication1\ConsoleApplication1.cpp(20,17):
-  정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
-  
-C:\Users\gkatj\OneDrive\바탕 화면\대학교 과제\C프로그래밍\subject2\ConsoleApplication1\ConsoleApplication1.cpp(26,17): error C2440: '=': 'errno_t'에서 'FILE *'(으)로 변환할 수 없습니다.
-  C:\Users\gkatj\OneDrive\바탕 화면\대학교 과제\C프로그래밍\subject2\ConsoleApplication1\ConsoleApplication1.cpp(26,17):
-  정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
-  
